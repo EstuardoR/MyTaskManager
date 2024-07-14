@@ -1,6 +1,6 @@
 ---
 
-# My Task Manager
+# MyTaskManager
 
 ## Installation
 
